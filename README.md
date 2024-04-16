@@ -182,7 +182,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-<img width="954" alt="s1" src="https://github.com/SmritiManikand/cover/assets/113674204/7dc7df0d-2f04-4afd-9d7c-d0dc6f72a1e4">
+<img width="475" alt="s1" src="https://github.com/SmritiManikand/cover/assets/113674204/32a338a4-d9ff-425c-b5ba-41c84ec8dadf">
 
 
 ## RESULT:
