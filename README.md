@@ -2,7 +2,7 @@
 ## Date: 05.04.2024
 
 
-## AIM:
+## Aim:
 To design a book front cover page using HTML and CSS.
 
 
