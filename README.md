@@ -60,6 +60,7 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color: rgb(240, 251, 255);
     }
+
     .book-cover .line1
     {
       position: absolute;
@@ -67,6 +68,7 @@ Publish the website in the LocalHost.
       left: 10px;
       width: 80px;
     }
+
     .book-cover .title1 {
       position: absolute;
       top: 80px;
@@ -75,6 +77,7 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color:  rgb(18, 219, 68);
     }
+
     .book-cover .title2 {
       position: absolute;
       top: 130px;
@@ -92,6 +95,7 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color:  rgb(213, 39, 190);
     }
+
     .book-cover .subtitle2 {
       position: absolute;
       top: 500px;
@@ -100,6 +104,7 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color: rgb(164, 20, 73);
     }
+
     .book-cover .subtitle3 {
       position: absolute;
       top: 530px;
@@ -108,6 +113,7 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color: white;
     }
+
     .book-cover .line2
     {
       position: absolute;
@@ -115,6 +121,7 @@ Publish the website in the LocalHost.
       left: 20px;
       width: 160px;
     }
+
     .book-cover .line3
     {
       position: absolute;
@@ -122,7 +129,6 @@ Publish the website in the LocalHost.
       left: 20px;
       width: 115px;
     }
-
 
     .book-cover .author {
       position: absolute;
@@ -147,6 +153,7 @@ Publish the website in the LocalHost.
       font-size: 18px;
       color: white;
     }
+
     .book-cover .mypic
     {
       position: relative;
@@ -156,7 +163,6 @@ Publish the website in the LocalHost.
       height: 8px;
       background-size:fit;
     }
-
 
     .book-cover .image {
       width: 100%;
@@ -188,6 +194,8 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
+
+
 
 ## OUTPUT:
 
