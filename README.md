@@ -1,13 +1,8 @@
 # Ex.06 Book Front Cover Page Design
 ## Date: 05.04.2024
 
-
 ## AIM:
-
-
 To design a book front cover page using HTML and CSS.
-
-
 
 ## DESIGN STEPS:
 
@@ -35,13 +30,7 @@ Insert the images in their appropriate places.
 ### Step 8:
 Publish the website in the LocalHost.
 
-
-
-
 ## PROGRAM:
-
-
-
 ```
 <html>
 <head>
@@ -61,7 +50,6 @@ Publish the website in the LocalHost.
       margin: 50px auto;
       position: relative;
     }
-    
     .book-cover .insight {
       position: absolute;
       top: 20px;
@@ -70,7 +58,6 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color: rgb(240, 251, 255);
     }
-
     .book-cover .line1
     {
       position: absolute;
@@ -78,7 +65,6 @@ Publish the website in the LocalHost.
       left: 10px;
       width: 80px;
     }
-
     .book-cover .title1 {
       position: absolute;
       top: 80px;
@@ -87,7 +73,6 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color:  rgb(18, 219, 68);
     }
-
     .book-cover .title2 {
       position: absolute;
       top: 130px;
@@ -96,7 +81,6 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color:  rgba(220, 20, 20, 0.723);
     }
-
     .book-cover .subtitle1 {
       position: absolute;
       top: 470px;
@@ -105,7 +89,6 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color:  rgb(213, 39, 190);
     }
-
     .book-cover .subtitle2 {
       position: absolute;
       top: 500px;
@@ -114,7 +97,6 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color: rgb(164, 20, 73);
     }
-
     .book-cover .subtitle3 {
       position: absolute;
       top: 530px;
@@ -123,7 +105,6 @@ Publish the website in the LocalHost.
       font-weight: bold;
       color: white;
     }
-
     .book-cover .line2
     {
       position: absolute;
@@ -131,7 +112,6 @@ Publish the website in the LocalHost.
       left: 20px;
       width: 160px;
     }
-
     .book-cover .line3
     {
       position: absolute;
@@ -139,7 +119,6 @@ Publish the website in the LocalHost.
       left: 20px;
       width: 115px;
     }
-
     .book-cover .author {
       position: absolute;
       bottom: 25px;
@@ -147,7 +126,6 @@ Publish the website in the LocalHost.
       font-size: 18px;
       color: whitesmoke;
     }
-
     .book-cover .number {
       position: absolute;
       bottom: 5px;
@@ -155,7 +133,6 @@ Publish the website in the LocalHost.
       font-size: 18px;
       color: white;
     }
-
     .book-cover .end {
       position: absolute;
       bottom: 5px;
@@ -163,7 +140,6 @@ Publish the website in the LocalHost.
       font-size: 18px;
       color: white;
     }
-
     .book-cover .mypic
     {
       position: relative;
@@ -173,7 +149,6 @@ Publish the website in the LocalHost.
       height: 8px;
       background-size:fit;
     }
-
     .book-cover .image {
       width: 100%;
       height: 100%;
@@ -205,21 +180,9 @@ Publish the website in the LocalHost.
 </html>
 ```
 
-
-
-
-
-
-
-
 ## OUTPUT:
 
-
-
-
 <img width="954" alt="s1" src="https://github.com/SmritiManikand/cover/assets/113674204/7dc7df0d-2f04-4afd-9d7c-d0dc6f72a1e4">
-
-
 
 
 ## RESULT:
