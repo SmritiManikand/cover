@@ -2,7 +2,9 @@
 ## Date: 05.04.2024
 
 
-## Aim:
+## AIM:
+
+
 To design a book front cover page using HTML and CSS.
 
 
@@ -37,6 +39,8 @@ Publish the website in the LocalHost.
 
 
 ## PROGRAM:
+
+
 
 ```
 <html>
@@ -209,6 +213,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
+
+
 
 
 <img width="954" alt="s1" src="https://github.com/SmritiManikand/cover/assets/113674204/7dc7df0d-2f04-4afd-9d7c-d0dc6f72a1e4">
